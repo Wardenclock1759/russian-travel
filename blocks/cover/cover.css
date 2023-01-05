@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("../../../images/train_station.png");
+    background-image: url("./../../../images/train_station.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
