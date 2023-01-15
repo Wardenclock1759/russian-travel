@@ -1,22 +1,25 @@
 .place {
     margin: 0 auto;
-    width: 76.875%;
+    max-width: 984px;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    /* grid-template-columns: repeat(2, 1fr); */
+    grid-template-columns: 1fr 1.052fr;
     row-gap: 48px;
     column-gap: 40px;
 }
 
 @media screen and (max-width: 1024px) {
     .place {
-        width: 90.625%;
+        max-width: 928px;
+        grid-template-columns: 1fr 1.036fr;
         column-gap: 32px;
     }
 } 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .place {
-        width: 93.75%;
+        max-width: 720px;
+        grid-template-columns: 1fr 1.035fr;
         column-gap: 28px;
     }
 } 

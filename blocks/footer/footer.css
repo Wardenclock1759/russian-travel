@@ -2,7 +2,7 @@
     margin: 0 auto;
     padding-top: 92px;
     padding-bottom: 24px;
-    width: 92.5%;
+    max-width: 1184px;
     display: flex;
     justify-content: space-between;
 }

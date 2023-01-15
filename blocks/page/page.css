@@ -1,11 +1,5 @@
-@font-face {
-    font-family: 'Inter';
-    src: url("../../fonts/Inter-Regular.ttf");
-}
-
 .page {
     background-color: #2A2C2F;
     font-family: 'Inter';
     width: 100%;
-    /* min-height: 100vh; */
 }

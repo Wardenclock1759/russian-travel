@@ -1,23 +1,19 @@
 .cover {
     margin: 0 auto;
     margin-top: 92px;
-    width: 92.5%;
+    max-width: 1184px;
     position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-image: url("./../../images/train-station.png");
-    background-repeat: no-repeat;
+    /* position: relative; */
+    /* display: flex; */
+    /* flex-direction: column;
+    align-items: center; */
+    /* background-image: url("./../../images/train-station.png"); */
+    /* background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain;
+    background-size: contain; */
 }
 
-@media screen and (max-width: 1024px) {
-    .cover {
-        width: 100%;
-        background-size: contain;
-    }
-} 
+
 
 @media screen and (max-width: 768px) {
     .cover {
