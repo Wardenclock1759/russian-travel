@@ -3,7 +3,7 @@
     padding: 0;
     max-width: 30px;
     text-align: center;
-    color: #FFFFFF;
+    color: #FFF;
     line-height: 28px;
     font-size: 24px;
     font-weight: 400;
@@ -14,10 +14,6 @@
 .header__lang-link:hover {
     opacity: 0.8;
     cursor: pointer;
-}
-
-.header__lang-link_active {
-    text-decoration-line: underline;
 }
 
 @media screen and (max-width: 320px) {

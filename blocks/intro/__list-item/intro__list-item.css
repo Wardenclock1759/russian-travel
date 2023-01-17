@@ -1,9 +1,5 @@
 .intro__list-item {
-    color: #FFFFFF;
+    color: #FFF;
     font-size: 12px;
     line-height: 18px;
-}
-
-.intro__list-item_bold {
-    font-weight: 700;
 }

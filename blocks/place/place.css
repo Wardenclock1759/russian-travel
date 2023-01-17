@@ -2,7 +2,6 @@
     margin: 0 auto;
     max-width: 984px;
     display: grid;
-    /* grid-template-columns: repeat(2, 1fr); */
     grid-template-columns: 1fr 1.052fr;
     row-gap: 48px;
     column-gap: 40px;
